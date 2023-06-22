@@ -3,7 +3,7 @@ kind: Route
 metadata:
   name: guestbook
 spec:
-  host: guestbook.apps.console-openshift-console.apps-crc.testing
+  host: guestbook.apps.box2586.sandbox2586.opentlc.com
   port:
     targetPort: 80
   to:
