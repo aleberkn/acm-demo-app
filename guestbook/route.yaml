@@ -3,7 +3,7 @@ kind: Route
 metadata:
   name: guestbook
 spec:
-  host: guestbook.apps.box2586.sandbox2586.opentlc.com
+  host: guestbook.apps.cluster-4464g.4464g.sandbox1056.opentlc.com
   port:
     targetPort: 80
   to:
