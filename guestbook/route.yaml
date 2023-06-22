@@ -3,7 +3,7 @@ kind: Route
 metadata:
   name: guestbook
 spec:
-  host: guestbook.apps.<your-ocp-cluster-name>.<your-ocp-cluster-domain>
+  host: guestbook.apps.box2586.sandbox2586.opentlc.com
   port:
     targetPort: 80
   to:
